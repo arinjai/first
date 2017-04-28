@@ -1,2 +1,5 @@
 hello i'm Arinjai
+<<<<<<< HEAD
 singh
+=======
+>>>>>>> be66001adfa3e83ea1a4328b4a939a9dbdc20726
